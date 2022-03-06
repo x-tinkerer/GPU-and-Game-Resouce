@@ -63,8 +63,8 @@
     - [GPU Gems2](https://developer.nvidia.com/gpugems/gpugems3/contributors)
 
 - **Source Code:**
-    - [src/GPU-Gems-Book-Source-Code](https://github.com/bigzz/GPU-Gems-Book-Source-Code)
-    - [src/GPU-Pro-Books-Source-Code](https://github.com/bigzz/GPU-Pro-Books-Source-Code
+    - [GPU-Gems-Book-Source-Code](https://github.com/bigzz/GPU-Gems-Book-Source-Code)
+    - [GPU-Pro-Books-Source-Code](https://github.com/bigzz/GPU-Pro-Books-Source-Code)
 
 - **优秀博文:**
 
