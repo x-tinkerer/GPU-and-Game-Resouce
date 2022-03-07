@@ -2,7 +2,6 @@
 
 ## Books collection
 ```bash
-(base) ➜  books git:(main) ✗ tree .
 .
 ├── Computer Graphics
 │   ├── ComputerGraphicsPrinciplesPractice.pdf
@@ -35,18 +34,23 @@
 │   ├── GPU Zen 2.pdf
 │   └── GPU Zen.pdf
 ├── GameEngine
+│   ├── Game Engine Architecture CN.pdf
 │   ├── Game Engine Architecture by Jason Gregory.pdf
-│   ├── gems
-│   │   ├── Game Engine Gems 1.pdf
-│   │   └── Game Engine Gems 2.pdf
-│   └── 游戏引擎架构.pdf
+│   ├── Mathematics for 3D Game Programming and Computer Graphics, Third Edition.pdf
+│   └── gems
+│       ├── Game Engine Gems 1.pdf
+│       ├── Game Engine Gems 2.pdf
+│       └── Game Engine Gems 3.pdf
+├── Ray Tracing
+│   ├── Ray Tracing Gems High-Quality and Real-Time Rendering with DXR and Other APIs.pdf
+│   └── Ray Tracing Gems II Next Generation Real-Time Rendering with Dxr, Vulkan, and Optix.pdf
 ├── Real-Time Rendering
-│   ├── Real-Time Rendering 3rd提炼总结.pdf
+│   ├── Real-Time Rendering 3rd Summary.pdf
 │   ├── Real-Time Rendering, 3rd Edition.pdf
 │   └── Real-Time Rendering, 4th Edition.pdf
 └── Vulkan
+    ├── Vulkan Programming Guide CN.pdf
     ├── Vulkan Programming Guide.pdf
-    ├── Vulkan编程指南.pdf
     └── learning-vulkan.pdf
 ```
 
