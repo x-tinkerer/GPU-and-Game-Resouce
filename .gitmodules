@@ -4,3 +4,6 @@
 [submodule "Real-Time-Rendering-4th-Bibliography-Collection"]
 	path = src/Real-Time-Rendering-4th-Bibliography-Collection
 	url = https://github.com/bigzz/Real-Time-Rendering-4th-Bibliography-Collection
+[submodule "src/GPU-Pro-Books-Source-Code"]
+	path = src/GPU-Pro-Books-Source-Code
+	url = https://github.com/bigzz/GPU-Pro-Books-Source-Code
