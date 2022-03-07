@@ -1,0 +1,3 @@
+[submodule "GPU-Gems-Book-Source-Code"]
+	path = src/GPU-Gems-Book-Source-Code
+	url = https://github.com/bigzz/GPU-Gems-Book-Source-Code
