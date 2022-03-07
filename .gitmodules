@@ -1,3 +1,6 @@
 [submodule "GPU-Gems-Book-Source-Code"]
 	path = src/GPU-Gems-Book-Source-Code
 	url = https://github.com/bigzz/GPU-Gems-Book-Source-Code
+[submodule "Real-Time-Rendering-4th-Bibliography-Collection"]
+	path = src/Real-Time-Rendering-4th-Bibliography-Collection
+	url = https://github.com/bigzz/Real-Time-Rendering-4th-Bibliography-Collection
