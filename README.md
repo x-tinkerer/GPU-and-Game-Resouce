@@ -5,10 +5,14 @@
 .
 ├── Computer Graphics
 │   ├── ComputerGraphicsPrinciplesPractice.pdf
+│   ├── Fundamentals of Computer Graphics, Fourth Edition.pdf
+│   ├── Graphics Shaders-Theory and Practice.pdf
 │   ├── Interactive Computer Graphics.pdf
 │   ├── Mathematics for 3D Game Programming and Computer Graphics, Third Edition.pdf
 │   ├── OpenGL Insights.pdf
 │   └── Physically Based Rendering, Third Edition From Theory to Implementation.pdf
+├── GPU
+│   └── Mobile 3D Graphics SoC From Algorithm to Chip.pdf
 ├── GPU Gems
 │   ├── GPU Gems.chm
 │   ├── GPU Gems2.chm
@@ -41,6 +45,15 @@
 │       ├── Game Engine Gems 1.pdf
 │       ├── Game Engine Gems 2.pdf
 │       └── Game Engine Gems 3.pdf
+├── Games Dev
+│   ├── 20 Essential Games to Study.pdf
+│   └── Unity
+│       ├── Unity 2018 Shaders and Effects Cookbook Transform your game into a visually stunning masterpiece with over 70 recipes, 3rd Edition.pdf
+│       ├── Unity 2020 By Example A project-based guide to building 2D, 3D, augmented reality, and virtual reality games from scratch, 3rd Edition.pdf
+│       ├── Unity Game Development Cookbook Essentials for Every Game.pdf
+│       └── Unity in Action Multiplatform game development in C, 3rd Edition.pdf
+├── OpenGL
+│   └── C++ Game Development By Example Learn to build games and graphics with SFML, OpenGL, and Vulkan using C++ programming.pdf
 ├── Ray Tracing
 │   ├── Ray Tracing Gems High-Quality and Real-Time Rendering with DXR and Other APIs.pdf
 │   └── Ray Tracing Gems II Next Generation Real-Time Rendering with Dxr, Vulkan, and Optix.pdf
