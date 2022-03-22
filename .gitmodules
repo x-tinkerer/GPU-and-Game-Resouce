@@ -7,3 +7,6 @@
 [submodule "src/GPU-Pro-Books-Source-Code"]
 	path = src/GPU-Pro-Books-Source-Code
 	url = https://github.com/bigzz/GPU-Pro-Books-Source-Code
+[submodule "src/3D-Graphics-Rendering-Cookbook"]
+	path = src/3D-Graphics-Rendering-Cookbook
+	url = https://github.com/bigzz/3D-Graphics-Rendering-Cookbook.git
