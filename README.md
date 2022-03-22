@@ -4,6 +4,7 @@
 ```bash
 .
 ├── Computer Graphics
+│   ├── 3D Graphics Rendering Cookbook A comprehensive guide to exploring rendering algorithms in modern OpenGL and Vulkan.pdf
 │   ├── ComputerGraphicsPrinciplesPractice.pdf
 │   ├── Fundamentals of Computer Graphics, Fourth Edition.pdf
 │   ├── Graphics Shaders-Theory and Practice.pdf
